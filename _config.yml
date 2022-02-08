@@ -14,8 +14,8 @@ title                    : "Study blog"
 title_separator          : "-"
 subtitle                 : "Web developer"
 name                     : "jhg1126q"
-description              : "Minimal Mistakes theme test."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "기술 블로그"
+url                      : "https://jhg1126q.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -65,7 +65,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "mmistakes"
+  username               : "jhg1126q"
 facebook:
   username               :
   app_id                 :
