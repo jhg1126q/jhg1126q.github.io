@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "JHG" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/mustache.png"
-  bio              : "web developer"
+  bio              : "3rd year web developer"
   location         : "Korea, Seoul"
   links:
     # - label: "Made Mistakes"
