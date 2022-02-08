@@ -9,7 +9,7 @@ theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "ko-KR"
 title                    : "Study blog"
 title_separator          : "-"
 subtitle                 : "Web developer"
