@@ -11,17 +11,17 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko"
-title                    : "title"
+title                    : "JHG study blog"
 title_separator          : "-"
-subtitle                 : "subtitle"
-name                     : "Name" # &name is a YAML anchor which can be *referenced later
-description              : "skill blog"
+subtitle                 : "개인공부 Blog"
+name                     : "jhg" # &name is a YAML anchor which can be *referenced later
+description              : "develop study blog"
 url                      : https://jhg1126q.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+repository               : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "masthead_title" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "JHG 웹개발 블로그"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -91,44 +91,37 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : "" # Replace this with your ID, or delete
     anonymize_ip         : true
 
 
 # Site Author
 author:
-  name             : "name" # *name is a YAML reference pointing to the &anchor earlier
+  name             : "JHG" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : ""
   bio              : "web developer"
   location         : "Korea, Seoul"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+    # - label: "Made Mistakes"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://mademistakes.com"
+    # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/jhg1126q"
+    # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/mmistakes"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
-
+      url: "https://github.com/jhg1126q"
 
 # Reading Files
 include:
