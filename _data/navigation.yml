@@ -134,3 +134,55 @@ sidebar-sample:
         url: /
       - title: "Child Page D2"
         url: /
+
+guide-doc:
+  - title: "Basic knownledge"
+    children:
+      - title: "Internet"
+        url: /docs/interent/
+      - title: "Http & Https"
+        url: /docs/http-https/
+      - title: "Browsers"
+        url: /docs/browsers/
+      - title: "DNS"
+        url: /docs/dns/
+      - title: "Domain"
+        url: /docs/domain/
+      - title: "Hosting"
+        url: /docs/hosting/
+      - title: "Html & CSS & JavaScript"
+        url: /docs/html-css-javascript/
+  - title: "General knownledge"
+    children:
+      - title: "Terminal - Basic Command"
+        url: /docs/terminal/
+      - title: "OS"
+        url: /docs/os/
+      - title: "Memory & Process Management"
+        url: /docs/memory-process/
+      - title: "Interprocess Communication"
+        url: /docs/interprocess-communication/
+      - title: "POSIX Basics"
+        url: /docs/posix-basics/
+      - title: "I/O Management"
+        url: /docs/iomanagement/
+      - title: "Network concept"
+        url: /docs/network/
+  - title: "Language Categories"
+    children:
+      - title: "Child Page C1"
+        url: /
+      - title: "Child Page C2"
+        url: /
+      - title: "Child Page C3"
+        url: /
+      - title: "Child Page C4"
+        url: /
+      - title: "Child Page C5"
+        url: /
+  - title: "Parent Page D"
+    children:
+      - title: "Child Page D1"
+        url: /
+      - title: "Child Page D2"
+        url: /
