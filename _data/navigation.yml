@@ -34,14 +34,14 @@ main:
   - title: "Test-Guide-Docu"
     url: /docs/test/
 # tesk link -------------------------- end
-  - title: "About"
-    url: /about/
-  - title: "Road Map"
-    url: /roadmap/
-  - title: "IDK"
-    url: /idk/
-  - title: "Study"
-    url: /study/
+  #- title: "About"
+  #  url: /about/
+  #- title: "Road Map"
+  #  url: /roadmap/
+  #- title: "IDK"
+  #  url: /idk/
+  #- title: "Study"
+  #  url: /study/
 
 
 
