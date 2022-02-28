@@ -20,18 +20,28 @@ foo:
 
 # main links
 main:
+# test link -------------------------- start
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  #- title: "Sample Posts"
+  #  url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
   - title: "Test-Guide-Docu"
     url: /docs/test/
+# tesk link -------------------------- end
+  - title: "About"
+    url: /about/
+  - title: "Road Map"
+    url: /roadmap/
+  - title: "IDK"
+    url: /idk/
+  - title: "Study"
+    url: /study/
 
 
 
@@ -135,6 +145,7 @@ sidebar-sample:
       - title: "Child Page D2"
         url: /
 
+# test-doc sidebar menu
 guide-doc:
   - title: "Basic knownledge"
     children:
@@ -186,3 +197,40 @@ guide-doc:
         url: /
       - title: "Child Page D2"
         url: /
+
+# test-doc sidebar menu
+roadmap:
+  # Frontend
+  - title: "Front-End"
+    children:
+      - title: "Javascript"
+        url: /roadmap/front/javascript/
+      - title: "Typescript"
+        url: /roadmap/front/typescript/
+      - title: "Vue"
+        url: /roadmap/front/vue/
+      - title: "React"
+        url: /roadmap/front/react/
+  # Backend
+  - title: "Back-End"
+    children:
+      - title: "Java"
+        url: /roadmap/back/java/
+      - title: "Server"
+        url: /roadmap/back/server/
+      - title: "DataBase"
+        url: /roadmap/back/database/
+  # tools
+  - title: "Tools"
+    children:
+      - title: "Text Editor"
+        url: "/roadmap/tools/texteditor/"
+  # Theory
+  - title: "Theory"
+    children: 
+      - title: "MVC pattern"
+        url: "/roadmap/theory/mvc/"
+      - title: "Functional programming"
+        url: "/roadmap/theory/function/"
+      - title: "Reactive programming"
+        url: "/roadmap/theory/reactive/"
