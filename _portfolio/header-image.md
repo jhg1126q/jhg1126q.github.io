@@ -37,35 +37,42 @@ gallery:
 
 해당 그림들을 나열하였습니다.
 
-# 목록 나열하기1
+# 목록 나열하기1 - 대제목
 
 해당 목록들을 작성하는 중입니다.
 하단에 있는 문단을 참조하여 주십시오.
 
-## Unordered -- Unordered -- Ordered
+## Unordered - 중제목
 
 * unordered item
 * unordered item 
   * unordered
   * unordered 
-    1. **ordered item**
-    2. **ordered item**
+    1. **ordered item - 강조**
+    2. **ordered item - 강조**
 * unordered item
 * unordered item
 
-# 목록 나열하기2
+내용정리되었습니다.
+감사합니다.
+
+# 목록 나열하기2 - 대제목
 
 대분류 들어가는 내용입니다.
 
-## unordered woop!wwop!
+## unordered woop!wwop! - 중제목
 
 웁웁스 
 노래를 합니다.
 
-### Task Lists
+### Task Lists - 소제목
 
 - [x] 1안 입니다.
 - [ ] 2안 입니다.
 - [ ] 3안 입니다.
 
 감사합니다.
+
+
+
+
