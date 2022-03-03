@@ -3,8 +3,8 @@ title: "Header Image를 넣습니다."
 permalink: "/idk/"
 excerpt: "요약 문장이 자리잡습니다."
 header:
-  image: /assets/images/header-image-dog-small.jpg
-  teaser: /assets/images/header-image-dog-small.jpg
+  image: /assets/images/header-image-dog-big-modi.jpg
+  teaser: /assets/images/header-image-dog-big-modi.jpg
 sidebar:
   - title: "Role"
     image: /asset/images/header-image-dog-small.jpg
@@ -17,7 +17,7 @@ gallery:
     image_path: assets/images/header-image-dog-small.jpg
     alt: "placeholder image 1"
   - url: /assets/images/header-image-dog-middle.jpg
-    image_path: assets/images/header-image-dog-small.jpg
+    image_path: assets/images/header-image-dog-middle.jpg
     alt: "placeholder image 2"
   - url: /assets/images/header-image-dog-big.jpg
     image_path: assets/images/header-image-dog-big.jpg
