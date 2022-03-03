@@ -1,47 +1,27 @@
-# example navigation
-foo:
-  - title: "Parent Link 1"
-    url: /parent-1-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-  - title: "Parent Link 2"
-    url: /parent-2-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-      - title: "Child Link 3"
-        url: /child-3-page-url/
-
-
 # main links
 main:
 # test link -------------------------- start
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+    # url: /about/
   #- title: "Sample Posts"
   #  url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
-  - title: "Test-Guide-Docu"
-    url: /docs/test/
+  # - title: "Terms &amp; Privacy Policy"
+  #   url: /terms/
+  # - title: "Test-Guide-Docu"
+  #  url: /docs/test/
 # tesk link -------------------------- end
-  #- title: "About"
-  #  url: /about/
-  #- title: "Road Map"
-  #  url: /roadmap/
-  #- title: "IDK"
-  #  url: /idk/
-  #- title: "Study"
-  #  url: /study/
+  - title: "About"
+    url: /about/
+  - title: "로드맵"
+    url: /roadmap/
+  - title: "IDK"
+    url: /idk/
+  - title: "공부"
+    url: /study/
 
 
 
@@ -102,103 +82,7 @@ docs:
       - title: "Terms &amp; Privacy Policy"
         url: /terms/
 
-# sidebar navigation list sample
-sidebar-sample:
-  - title: "Parent Page A"
-    children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Parent Page B"
-    children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
-  - title: "Parent Page C"
-    children:
-      - title: "Child Page C1"
-        url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
-
-# test-doc sidebar menu
-guide-doc:
-  - title: "Basic knownledge"
-    children:
-      - title: "Internet"
-        url: /docs/interent/
-      - title: "Http & Https"
-        url: /docs/http-https/
-      - title: "Browsers"
-        url: /docs/browsers/
-      - title: "DNS"
-        url: /docs/dns/
-      - title: "Domain"
-        url: /docs/domain/
-      - title: "Hosting"
-        url: /docs/hosting/
-      - title: "Html & CSS & JavaScript"
-        url: /docs/html-css-javascript/
-  - title: "General knownledge"
-    children:
-      - title: "Terminal - Basic Command"
-        url: /docs/terminal/
-      - title: "OS"
-        url: /docs/os/
-      - title: "Memory & Process Management"
-        url: /docs/memory-process/
-      - title: "Interprocess Communication"
-        url: /docs/interprocess-communication/
-      - title: "POSIX Basics"
-        url: /docs/posix-basics/
-      - title: "I/O Management"
-        url: /docs/iomanagement/
-      - title: "Network concept"
-        url: /docs/network/
-  - title: "Language Categories"
-    children:
-      - title: "Child Page C1"
-        url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
-
-# test-doc sidebar menu
+# roadmap sidebar menu
 roadmap:
   # Frontend
   - title: "Front-End"
@@ -226,7 +110,7 @@ roadmap:
       - title: "Text Editor"
         url: "/roadmap/tools/texteditor/"
   # Theory
-  - title: "Theory"
+  - title: "잡지식들"
     children: 
       - title: "MVC pattern"
         url: "/roadmap/theory/mvc/"
