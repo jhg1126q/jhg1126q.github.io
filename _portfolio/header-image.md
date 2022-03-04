@@ -14,7 +14,7 @@ header:
   teaser: /assets/images/header-image-dog-big-modi.jpg
 sidebar:
   - title: "Role"
-    image: /asset/images/bio-photo.jpg
+    image: /asset/images/log-dog-tong-150x150.jpg
     image_alt: "logo"
     text: "Front-End Developer"
   - title: "this is side title"
@@ -28,6 +28,16 @@ gallery:
     alt: "placeholder image 2"
   - url: /assets/images/header-image-dog-big.jpg
     image_path: assets/images/header-image-dog-big.jpg
+    alt: "placeholder image 3"
+headergallery:
+  - url: /assets/images/image-dog-tong.jpg
+    image_path: assets/images/image-dog-innocent.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/Header-dog-flower.jpg
+    image_path: assets/images/Header-dog-flower.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/header-dog-eyes.jpg
+    image_path: assets/images/header-dog-eyes.jpg
     alt: "placeholder image 3"
 last_modified_at: 2022-03-04T10:23:16-04:00
 ---
@@ -50,8 +60,11 @@ last_modified_at: 2022-03-04T10:23:16-04:00
 
 Nothing clever here :wink:. Layouts, data files, and includes are all placed in their default locations. Stylesheets and scripts in `assets`, and a few development related files in the project's root directory.
 
-**Please note:** 강아지 사진들은 전부 pixabay 에서 다운로드 받아서 사용하고 있습니다. 헤더 이미지는 전부 가로 사이즈가 화면에 맞게 포팅되어져서 돌아갑니다.
+**강아지 사진 출처:** 강아지 사진들은 전부 pixabay 에서 다운로드 받아서 사용하고 있습니다. 헤더 이미지는 전부 가로 사이즈가 화면에 맞게 포팅되어져서 돌아갑니다.
 {: .notice--info}
+
+**경고문:** 이 강아지들은 정말 귀엽습니다. 해당 강아지들에게 마음을 뺏기지 않도록 주의해 주세요!. 이후의 피해에 대해서는 저희가 책임지지 않습니다. 감사합니다.
+{: .notice--warning}
 
 ## Unordered - 중제목 밑줄 처짐
 
@@ -68,6 +81,8 @@ Nothing clever here :wink:. Layouts, data files, and includes are all placed in 
 
 
 감사합니다.
+
+{% include headergallery caption="헤더 이미지들을 나열하여 보여줍니다. :: 귀여운 데이터 :: " %}
 
 # 목록 나열하기2 - 대제목
 
