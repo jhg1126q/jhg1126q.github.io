@@ -78,16 +78,17 @@ last_modified_at: 2022-03-04T10:23:16-04:00
 | 순번                                        | 설명                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | [Tags Archive][tags-archive] | Posts grouped by tag. |
-| 안녕하세요 반갑습니다 | 예시 문서 문장입니다. |
+| 안녕하세요! 반갑습니다. 이문장은 길이 테스트를 하는 문장입낟. 최대 길이까지 텍스트를 입력합니다. | 예시 문서 문장입니다. 텍스트 입력칸을 테스트 중입니다. 감사합니다. |
 | 대체로 맑음 | 때때로 흐림 |
 
 For even more demo pages check the [posts archive][year-archive].
 
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
+
 --- 
 감사합니다.
----
+
 
 
 
