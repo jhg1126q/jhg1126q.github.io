@@ -42,7 +42,7 @@ gallery:
 해당 목록들을 작성하는 중입니다.
 하단에 있는 문단을 참조하여 주십시오.
 
-## Unordered - 중제목
+## Unordered - 중제목 밑줄 처짐
 
 * unordered item
 * unordered item 
@@ -62,8 +62,9 @@ gallery:
 
 ## unordered woop!wwop! - 중제목
 
-웁웁스 
-노래를 합니다.
+- 웁웁스 
+- 노래를 합니다.
+- 중제목 나열합니다
 
 ### Task Lists - 소제목
 
@@ -71,6 +72,15 @@ gallery:
 - [ ] 2안 입니다.
 - [ ] 3안 입니다.
 
+# 샘플표 표기
+
+| 순번                                        | 설명                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
+| [Tags Archive][tags-archive] | Posts grouped by tag. |
+| 안녕하세요 반갑습니다 | 예시 문서 문장입니다. |
+| 대체로 맑음 | 때때로 흐림 |
+
+For even more demo pages check the [posts archive][year-archive].
 감사합니다.
 
 
