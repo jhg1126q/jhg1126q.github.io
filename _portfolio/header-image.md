@@ -40,18 +40,18 @@ last_modified_at: 2022-03-04T10:23:16-04:00
 
 > 강아지 이미지들을 넣습니다.
 
-> 첫번째 이미지는 small 
+> 첫번째 이미지는 small,  
+> 두번째 이미지는 middle,  
+> 세번째 이미지는 big 입니다.  
 
-> 두번째 이미지는 middle 
-
-> 세번째 이미지는 big 
-
-변경되어 지는 내용물들은 존재하지 않습니다.  
+변경되어 지는 내용물들은 존재하지 않습니다.  :wink:
 
 # 목록 나열하기1 - 대제목
 
-해당 목록들을 작성하는 중입니다.
-하단에 있는 문단을 참조하여 주십시오.
+Nothing clever here :wink:. Layouts, data files, and includes are all placed in their default locations. Stylesheets and scripts in `assets`, and a few development related files in the project's root directory.
+
+**Please note:** 강아지 사진들은 전부 pixabay 에서 다운로드 받아서 사용하고 있습니다. 헤더 이미지는 전부 가로 사이즈가 화면에 맞게 포팅되어져서 돌아갑니다.
+{: .notice--info}
 
 ## Unordered - 중제목 밑줄 처짐
 
