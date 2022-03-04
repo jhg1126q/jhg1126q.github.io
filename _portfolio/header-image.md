@@ -29,6 +29,7 @@ gallery:
   - url: /assets/images/header-image-dog-big.jpg
     image_path: assets/images/header-image-dog-big.jpg
     alt: "placeholder image 3"
+last_modified_at: 2022-03-04T10:23:16-04:00
 ---
 그림들을 넣습니다. 해당 그림들은 url, image_path, alt 를 가지게 됩니다.
 
@@ -53,7 +54,7 @@ gallery:
 * unordered item
 * unordered item
 
-내용정리되었습니다.
+내용 정리 되었습니다.
 감사합니다.
 
 # 목록 나열하기2 - 대제목
@@ -81,8 +82,12 @@ gallery:
 | 대체로 맑음 | 때때로 흐림 |
 
 For even more demo pages check the [posts archive][year-archive].
-감사합니다.
 
+[tags-archive]: {{ "/tags/" | relative_url }}
+[year-archive]: {{ "/year-archive/" | relative_url }}
+--- 
+감사합니다.
+---
 
 
 
