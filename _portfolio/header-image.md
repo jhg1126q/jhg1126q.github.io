@@ -31,12 +31,19 @@ gallery:
     alt: "placeholder image 3"
 last_modified_at: 2022-03-04T10:23:16-04:00
 ---
-그림들을 넣습니다. 해당 그림들은 url, image_path, alt 를 가지게 됩니다.
+  그림들을 넣습니다. 해당 그림들은 url, image_path, alt 를 가지게 됩니다.
 
 {% include gallery caption="이 자리는 캡션이 들어가는 자리입니다. :: dog - cute" %}
 
 
 해당 그림들을 나열하였습니다.
+
+> 강아지 이미지들을 넣습니다.
+> 첫번째 이미지는 small 
+> 두번째 이미지는 middle 
+> 세번째 이미지는 big 
+
+변경되어 지는 내용물들은 존재하지 않습니다.  
 
 # 목록 나열하기1 - 대제목
 
