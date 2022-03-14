@@ -1,7 +1,7 @@
 # main links
 main:
 # test link -------------------------- start
-   - title: "Quick-Start Guide"
+  - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   # - title: "About"
     # url: /about/
@@ -80,7 +80,7 @@ docs:
       - title: "License"
         url: /docs/license/
       - title: "Terms &amp; Privacy Policy"
-        url: /portfolio/header-image
+        url: /terms/
 
 # roadmap sidebar menu
 roadmap:
