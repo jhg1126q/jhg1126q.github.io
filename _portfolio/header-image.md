@@ -32,8 +32,8 @@ gallery:
   - url: /assets/images/image-dog-tong.jpg
     image_path: assets/images/image-dog-innocent.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/header-dog-flower.jpg
-    image_path: assets/images/header-dog-flower.jpg
+  - url: /assets/images/header-dog-ear.jpg
+    image_path: assets/images/header-dog-ear.jpg
     alt: "placeholder image 2"
   - url: /assets/images/header-dog-eyes.jpg
     image_path: assets/images/header-dog-eyes.jpg
