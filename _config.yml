@@ -18,7 +18,7 @@ name                     : "jhg" # &name is a YAML anchor which can be *referenc
 description              : "develop study blog"
 url                      : https://jhg1126q.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "/"
+repository               : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/mustache.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "JHG 웹개발 블로그"
