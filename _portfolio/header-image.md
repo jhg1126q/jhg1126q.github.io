@@ -29,11 +29,11 @@ gallery:
   # - url: /assets/images/header-image-dog-big.jpg
   #   image_path: assets/images/header-image-dog-big.jpg
   #   alt: "placeholder image 3"
-    - url: /assets/images/image-dog-tong.jpg
+  - url: /assets/images/image-dog-tong.jpg
     image_path: assets/images/image-dog-innocent.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/Header-dog-flower.jpg
-    image_path: assets/images/Header-dog-flower.jpg
+  - url: /assets/images/header-dog-flower.jpg
+    image_path: assets/images/header-dog-flower.jpg
     alt: "placeholder image 2"
   - url: /assets/images/header-dog-eyes.jpg
     image_path: assets/images/header-dog-eyes.jpg

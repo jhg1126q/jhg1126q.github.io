@@ -23,8 +23,6 @@ main:
   - title: "공부"
     url: /study/
 
-
-
 # documentation links
 docs:
   - title: Getting Started
