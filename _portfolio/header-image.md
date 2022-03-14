@@ -20,17 +20,16 @@ sidebar:
   - title: "this is side title"
     text: "this is side text"
 gallery:
-  - url: /assets/images/header-image-dog-small.jpg
-    image_path: assets/images/header-image-dog-small.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/header-image-dog-middle.jpg
-    image_path: assets/images/header-image-dog-middle.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/header-image-dog-big.jpg
-    image_path: assets/images/header-image-dog-big.jpg
-    alt: "placeholder image 3"
-headergallery:
-  - url: /assets/images/image-dog-tong.jpg
+  # - url: /assets/images/header-image-dog-small.jpg
+  #   image_path: assets/images/header-image-dog-small.jpg
+  #   alt: "placeholder image 1"
+  # - url: /assets/images/header-image-dog-middle.jpg
+  #   image_path: assets/images/header-image-dog-middle.jpg
+  #   alt: "placeholder image 2"
+  # - url: /assets/images/header-image-dog-big.jpg
+  #   image_path: assets/images/header-image-dog-big.jpg
+  #   alt: "placeholder image 3"
+    - url: /assets/images/image-dog-tong.jpg
     image_path: assets/images/image-dog-innocent.jpg
     alt: "placeholder image 1"
   - url: /assets/images/Header-dog-flower.jpg
@@ -39,6 +38,16 @@ headergallery:
   - url: /assets/images/header-dog-eyes.jpg
     image_path: assets/images/header-dog-eyes.jpg
     alt: "placeholder image 3"
+# headergallery:
+#   - url: /assets/images/image-dog-tong.jpg
+#     image_path: assets/images/image-dog-innocent.jpg
+#     alt: "placeholder image 1"
+#   - url: /assets/images/Header-dog-flower.jpg
+#     image_path: assets/images/Header-dog-flower.jpg
+#     alt: "placeholder image 2"
+#   - url: /assets/images/header-dog-eyes.jpg
+#     image_path: assets/images/header-dog-eyes.jpg
+    # alt: "placeholder image 3"
 last_modified_at: 2022-03-04T10:23:16-04:00
 ---
   그림들을 넣습니다. 해당 그림들은 url, image_path, alt 를 가지게 됩니다.
@@ -82,7 +91,7 @@ Nothing clever here :wink:. Layouts, data files, and includes are all placed in 
 
 감사합니다.
 
-{% include headergallery caption="헤더 이미지들을 나열하여 보여줍니다. :: 귀여운 데이터 :: " %}
+<!-- {% include headergallery caption="헤더 이미지들을 나열하여 보여줍니다. :: 귀여운 데이터 :: " %} -->
 
 # 목록 나열하기2 - 대제목
 
